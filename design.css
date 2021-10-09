@@ -90,11 +90,17 @@ height: auto;
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
+
 .footer{
   color: white;
   margin-top: 30px;
   padding: 30px;
   background-color: #F85555;
+}
+.abt{
+  text-align: center;
+  font-size: 300%;
+
 }
 .bt{
   text-align: center;
