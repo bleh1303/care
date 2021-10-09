@@ -20,7 +20,9 @@
     text-decoration: none;
     font-size: 17px;
   }
-
+.text{
+    font-size: 120%;
+}
   /* Change the color of links on hover */
   .topnav a:hover {
     background-color: #ddd;
