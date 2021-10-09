@@ -1,0 +1,143 @@
+body{
+  margin: 0;
+  color: black;
+
+}
+
+p{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 150%;
+}
+.first h1{
+  text-align: center;
+  color: white;
+
+}
+.first h2{
+  text-align: center;
+  color: white;
+}
+.first {
+  background-image: url("background.png");
+  background-color: white;
+  height: 800px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  position: relative;
+}
+
+.logo{
+  text-align: left;
+  height: 80%;
+  width: 26%;
+margin: 10px;
+}
+.topnav {
+  background-color: black;
+  opacity: 0.7;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 20px 20px 20px;
+  border: 30px 30px 30px 30px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+
+
+.head1{
+  margin-top: 150px;
+font-family: 'Libre Baskerville', serif;
+font-size: 300%;
+}
+.head2{
+  margin-top: 17px;
+font-family:'Roboto Slab', serif ;
+font-size: 120%;
+}
+.head3{
+  margin-top: 50px;
+font-family:'Dancing Script', cursive ;
+font-size: 250%;
+}
+.pic{
+  display: block;
+ margin: 60px auto 0 auto;
+width: 40%;
+height: auto;
+}
+.name{
+  color: #F85555;
+}
+.head{
+  margin: 50px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+.footer{
+  color: white;
+  margin-top: 30px;
+  padding: 30px;
+  background-color: #F85555;
+}
+.bt{
+  text-align: center;
+}
+.tb{
+  text-align: center;
+  padding: 3%;
+  margin-left: 60px;
+}
+.tb h1{
+  color: #F85555;
+}
+.tb img{
+  width: 100%;
+
+}
+.btns{
+  text-align: center;
+}
+.btn {
+  margin: 10px 10px 10px 10px;
+  background: #F84A4A;
+  background-image: -webkit-linear-gradient(top, #F84A4A, #cf0f0f);
+  background-image: -moz-linear-gradient(top, #F84A4A, #cf0f0f);
+  background-image: -ms-linear-gradient(top, #F84A4A, #cf0f0f);
+  background-image: -o-linear-gradient(top, #F84A4A, #cf0f0f);
+  background-image: linear-gradient(to bottom, #F84A4A, #cf0f0f);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f05454;
+  background-image: -webkit-linear-gradient(top, #f05454, #9c1f1f);
+  background-image: -moz-linear-gradient(top, #f05454, #9c1f1f);
+  background-image: -ms-linear-gradient(top, #f05454, #9c1f1f);
+  background-image: -o-linear-gradient(top, #f05454, #9c1f1f);
+  background-image: linear-gradient(to bottom, #f05454, #9c1f1f);
+  text-decoration: none;
+}
