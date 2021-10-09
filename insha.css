@@ -125,7 +125,7 @@
     color: white;
     }
     .btn {
-      margin: 10px 10px 10px 10px;
+      margin: 5px 5px 5px 5px;
       background: #F84A4A;
       background-image: -webkit-linear-gradient(top, #F84A4A, #cf0f0f);
       background-image: -moz-linear-gradient(top, #F84A4A, #cf0f0f);
@@ -138,7 +138,7 @@
       font-family: Arial;
       color: white;
       font-size: 20px;
-      padding: 10px 20px 10px 20px;
+      padding: 10px 10px 10px 10px;
       text-decoration: none;
     }
 
